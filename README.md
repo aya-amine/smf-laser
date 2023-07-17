@@ -1,2 +1,2 @@
-Company website
-July 2023: Working on responsiveness
+Company website version 1:
+July 2023: responsiveness
